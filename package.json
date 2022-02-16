@@ -1,0 +1,14 @@
+{
+  "name": "hello",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d bootstrap"
+  },
+  "author": "",
+  "license": "ISC",
+  "homepage":"http://istiak2426.github.io/bootstrap_website"
+
+  
+}
